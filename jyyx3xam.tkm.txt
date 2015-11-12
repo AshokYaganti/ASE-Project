@@ -1,0 +1,238 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   Increment-3/Documents/ASE-Increment-3.pdf
+#	new file:   Increment-3/Source Code/Android/android-debug (2).apk
+#	new file:   Increment-3/Source Code/WCF/IService1.cs
+#	new file:   Increment-3/Source Code/WCF/Properties/AssemblyInfo.cs
+#	new file:   Increment-3/Source Code/WCF/Service1.svc
+#	new file:   Increment-3/Source Code/WCF/Service1.svc.cs
+#	new file:   Increment-3/Source Code/WCF/StockMonitoringService.csproj
+#	new file:   Increment-3/Source Code/WCF/StockMonitoringService.csproj.user
+#	new file:   Increment-3/Source Code/WCF/Web.Debug.config
+#	new file:   Increment-3/Source Code/WCF/Web.Release.config
+#	new file:   Increment-3/Source Code/WCF/Web.config
+#	new file:   Increment-3/Source Code/WCF/bin/StockMonitoringService.dll
+#	new file:   Increment-3/Source Code/WCF/bin/StockMonitoringService.pdb
+#	new file:   Increment-3/Source Code/WCF/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+#	new file:   Increment-3/Source Code/WCF/obj/Debug/StockMonitoringService.csproj.FileListAbsolute.txt
+#	new file:   Increment-3/Source Code/WCF/obj/Debug/StockMonitoringService.csprojResolveAssemblyReference.cache
+#	new file:   Increment-3/Source Code/WCF/obj/Debug/StockMonitoringService.dll
+#	new file:   Increment-3/Source Code/WCF/obj/Debug/StockMonitoringService.pdb
+#	new file:   Increment-3/Source Code/Web Application/About.aspx
+#	new file:   Increment-3/Source Code/Web Application/About.aspx.cs
+#	new file:   Increment-3/Source Code/Web Application/Account/ChangePassword.aspx
+#	new file:   Increment-3/Source Code/Web Application/Account/ChangePassword.aspx.cs
+#	new file:   Increment-3/Source Code/Web Application/Account/ChangePasswordSuccess.aspx
+#	new file:   Increment-3/Source Code/Web Application/Account/ChangePasswordSuccess.aspx.cs
+#	new file:   Increment-3/Source Code/Web Application/Account/Login.aspx
+#	new file:   Increment-3/Source Code/Web Application/Account/Login.aspx.cs
+#	new file:   Increment-3/Source Code/Web Application/Account/Register.aspx
+#	new file:   Increment-3/Source Code/Web Application/Account/Register.aspx.cs
+#	new file:   Increment-3/Source Code/Web Application/Account/Web.config
+#	new file:   Increment-3/Source Code/Web Application/Album.aspx
+#	new file:   Increment-3/Source Code/Web Application/Album.aspx.cs
+#	new file:   Increment-3/Source Code/Web Application/App_WebReferences/ServiceReference1/Reference.svcmap
+#	new file:   Increment-3/Source Code/Web Application/App_WebReferences/ServiceReference1/Service1.disco
+#	new file:   Increment-3/Source Code/Web Application/App_WebReferences/ServiceReference1/Service1.wsdl
+#	new file:   Increment-3/Source Code/Web Application/App_WebReferences/ServiceReference1/Service1.xsd
+#	new file:   Increment-3/Source Code/Web Application/App_WebReferences/ServiceReference1/Service11.xsd
+#	new file:   Increment-3/Source Code/Web Application/App_WebReferences/ServiceReference1/Service12.xsd
+#	new file:   Increment-3/Source Code/Web Application/App_WebReferences/ServiceReference1/Service13.xsd
+#	new file:   Increment-3/Source Code/Web Application/App_WebReferences/ServiceReference1/configuration.svcinfo
+#	new file:   Increment-3/Source Code/Web Application/App_WebReferences/ServiceReference1/configuration91.svcinfo
+#	new file:   Increment-3/Source Code/Web Application/AppointmentDetails.aspx
+#	new file:   Increment-3/Source Code/Web Application/AppointmentDetails.aspx.cs
+#	new file:   Increment-3/Source Code/Web Application/CashBox.aspx
+#	new file:   Increment-3/Source Code/Web Application/CashBox.aspx.cs
+#	new file:   Increment-3/Source Code/Web Application/ChangePassword.aspx
+#	new file:   Increment-3/Source Code/Web Application/ChangePassword.aspx.cs
+#	new file:   Increment-3/Source Code/Web Application/Continue.aspx
+#	new file:   Increment-3/Source Code/Web Application/Continue.aspx.cs
+#	new file:   Increment-3/Source Code/Web Application/Default.aspx
+#	new file:   Increment-3/Source Code/Web Application/Default.aspx.cs
+#	new file:   Increment-3/Source Code/Web Application/Default2.aspx
+#	new file:   Increment-3/Source Code/Web Application/Default2.aspx.cs
+#	new file:   Increment-3/Source Code/Web Application/Global.asax
+#	new file:   Increment-3/Source Code/Web Application/Handler.ashx
+#	new file:   Increment-3/Source Code/Web Application/Home.aspx
+#	new file:   Increment-3/Source Code/Web Application/Home.aspx.cs
+#	new file:   Increment-3/Source Code/Web Application/Id.aspx
+#	new file:   Increment-3/Source Code/Web Application/Id.aspx.cs
+#	new file:   Increment-3/Source Code/Web Application/LoginMaster.master
+#	new file:   Increment-3/Source Code/Web Application/LoginMaster.master.cs
+#	new file:   Increment-3/Source Code/Web Application/LoginPage.aspx
+#	new file:   Increment-3/Source Code/Web Application/LoginPage.aspx.cs
+#	new file:   Increment-3/Source Code/Web Application/Logout.aspx
+#	new file:   Increment-3/Source Code/Web Application/Logout.aspx.cs
+#	new file:   Increment-3/Source Code/Web Application/MarketWatch.aspx
+#	new file:   Increment-3/Source Code/Web Application/MarketWatch.aspx.cs
+#	new file:   Increment-3/Source Code/Web Application/NewOrder.aspx
+#	new file:   Increment-3/Source Code/Web Application/NewOrder.aspx.cs
+#	new file:   Increment-3/Source Code/Web Application/OrderHistory.aspx
+#	new file:   Increment-3/Source Code/Web Application/OrderHistory.aspx.cs
+#	new file:   Increment-3/Source Code/Web Application/Portfolio.aspx
+#	new file:   Increment-3/Source Code/Web Application/Portfolio.aspx.cs
+#	new file:   Increment-3/Source Code/Web Application/Register.aspx
+#	new file:   Increment-3/Source Code/Web Application/Register.aspx.cs
+#	new file:   Increment-3/Source Code/Web Application/Scripts/Styles/Site.css
+#	new file:   Increment-3/Source Code/Web Application/Scripts/ajax.js
+#	new file:   Increment-3/Source Code/Web Application/Scripts/cookies.js
+#	new file:   Increment-3/Source Code/Web Application/Scripts/jquery-1.4.1-vsdoc.js
+#	new file:   Increment-3/Source Code/Web Application/Scripts/jquery-1.4.1.js
+#	new file:   Increment-3/Source Code/Web Application/Scripts/jquery-1.4.1.min.js
+#	new file:   Increment-3/Source Code/Web Application/Scripts/main.js
+#	new file:   Increment-3/Source Code/Web Application/SellStock.aspx
+#	new file:   Increment-3/Source Code/Web Application/SellStock.aspx.cs
+#	new file:   Increment-3/Source Code/Web Application/Site.master
+#	new file:   Increment-3/Source Code/Web Application/Site.master.cs
+#	new file:   Increment-3/Source Code/Web Application/Styles/Site.css
+#	new file:   Increment-3/Source Code/Web Application/UContact.aspx
+#	new file:   Increment-3/Source Code/Web Application/UContact.aspx.cs
+#	new file:   Increment-3/Source Code/Web Application/UpdateProfile.aspx
+#	new file:   Increment-3/Source Code/Web Application/UpdateProfile.aspx.cs
+#	new file:   Increment-3/Source Code/Web Application/UserHome.aspx
+#	new file:   Increment-3/Source Code/Web Application/UserHome.aspx.cs
+#	new file:   Increment-3/Source Code/Web Application/UserMaster.master
+#	new file:   Increment-3/Source Code/Web Application/UserMaster.master.cs
+#	new file:   Increment-3/Source Code/Web Application/UserProfile.aspx
+#	new file:   Increment-3/Source Code/Web Application/UserProfile.aspx.cs
+#	new file:   Increment-3/Source Code/Web Application/Web.config
+#	new file:   Increment-3/Source Code/Web Application/aboutus.aspx
+#	new file:   Increment-3/Source Code/Web Application/aboutus.aspx.cs
+#	new file:   Increment-3/Source Code/Web Application/appointment.aspx
+#	new file:   Increment-3/Source Code/Web Application/appointment.aspx.cs
+#	new file:   Increment-3/Source Code/Web Application/assets/bootstrap/css/bootstrap.css
+#	new file:   Increment-3/Source Code/Web Application/assets/bootstrap/css/bootstrap.min.css
+#	new file:   Increment-3/Source Code/Web Application/assets/bootstrap/img/glyphicons-halflings-white.png
+#	new file:   Increment-3/Source Code/Web Application/assets/bootstrap/img/glyphicons-halflings.png
+#	new file:   Increment-3/Source Code/Web Application/assets/bootstrap/js/bootstrap.js
+#	new file:   Increment-3/Source Code/Web Application/assets/bootstrap/js/bootstrap.min.js
+#	new file:   Increment-3/Source Code/Web Application/assets/css/style.css
+#	new file:   Increment-3/Source Code/Web Application/assets/img/backgrounds/1.jpg
+#	new file:   Increment-3/Source Code/Web Application/assets/img/backgrounds/2.jpg
+#	new file:   Increment-3/Source Code/Web Application/assets/img/backgrounds/3.jpg
+#	new file:   Increment-3/Source Code/Web Application/assets/img/backgrounds/4.jpg
+#	new file:   Increment-3/Source Code/Web Application/assets/img/backgrounds/5.jpg
+#	new file:   Increment-3/Source Code/Web Application/assets/img/backgrounds/6.jpg
+#	new file:   Increment-3/Source Code/Web Application/assets/img/blog.png
+#	new file:   Increment-3/Source Code/Web Application/assets/img/home.png
+#	new file:   Increment-3/Source Code/Web Application/assets/img/iphone.png
+#	new file:   Increment-3/Source Code/Web Application/assets/img/pattern.jpg
+#	new file:   Increment-3/Source Code/Web Application/assets/img/pencil.png
+#	new file:   Increment-3/Source Code/Web Application/assets/js/jquery-1.8.2.min.js
+#	new file:   Increment-3/Source Code/Web Application/assets/js/jquery.backstretch.min.js
+#	new file:   Increment-3/Source Code/Web Application/assets/js/scripts.js
+#	new file:   Increment-3/Source Code/Web Application/contact.aspx
+#	new file:   Increment-3/Source Code/Web Application/contact.aspx.cs
+#	new file:   Increment-3/Source Code/Web Application/contents/1.jpeg
+#	new file:   Increment-3/Source Code/Web Application/contents/1.jpg
+#	new file:   Increment-3/Source Code/Web Application/contents/2 (2).jpg
+#	new file:   Increment-3/Source Code/Web Application/contents/2.jpg
+#	new file:   Increment-3/Source Code/Web Application/contents/3.jpg
+#	new file:   Increment-3/Source Code/Web Application/contents/3.png
+#	new file:   Increment-3/Source Code/Web Application/css/piecemaker.css
+#	new file:   Increment-3/Source Code/Web Application/css/style.css
+#	new file:   Increment-3/Source Code/Web Application/faq.aspx
+#	new file:   Increment-3/Source Code/Web Application/faq.aspx.cs
+#	new file:   Increment-3/Source Code/Web Application/forgot.aspx
+#	new file:   Increment-3/Source Code/Web Application/forgot.aspx.cs
+#	new file:   Increment-3/Source Code/Web Application/gallery/1.jpg
+#	new file:   Increment-3/Source Code/Web Application/gallery/10.jpg
+#	new file:   Increment-3/Source Code/Web Application/gallery/11.jpg
+#	new file:   Increment-3/Source Code/Web Application/gallery/12.jpg
+#	new file:   Increment-3/Source Code/Web Application/gallery/13.jpg
+#	new file:   Increment-3/Source Code/Web Application/gallery/14.jpg
+#	new file:   Increment-3/Source Code/Web Application/gallery/2.jpg
+#	new file:   Increment-3/Source Code/Web Application/gallery/3.jpg
+#	new file:   Increment-3/Source Code/Web Application/gallery/4.jpg
+#	new file:   Increment-3/Source Code/Web Application/gallery/5.jpg
+#	new file:   Increment-3/Source Code/Web Application/gallery/6.jpg
+#	new file:   Increment-3/Source Code/Web Application/gallery/7.jpg
+#	new file:   Increment-3/Source Code/Web Application/gallery/8.jpg
+#	new file:   Increment-3/Source Code/Web Application/gallery/9.jpg
+#	new file:   Increment-3/Source Code/Web Application/images/123.png
+#	new file:   Increment-3/Source Code/Web Application/images/FullMonth.ICO
+#	new file:   Increment-3/Source Code/Web Application/images/NMonth.ICO
+#	new file:   Increment-3/Source Code/Web Application/images/PMonth.ICO
+#	new file:   Increment-3/Source Code/Web Application/images/Week.ico
+#	new file:   Increment-3/Source Code/Web Application/images/bg.jpg
+#	new file:   Increment-3/Source Code/Web Application/images/bg1.jpg
+#	new file:   Increment-3/Source Code/Web Application/images/calendar.png
+#	new file:   Increment-3/Source Code/Web Application/images/countinue.png
+#	new file:   Increment-3/Source Code/Web Application/images/green.png
+#	new file:   Increment-3/Source Code/Web Application/images/id1.png
+#	new file:   Increment-3/Source Code/Web Application/images/lo-bg.png
+#	new file:   Increment-3/Source Code/Web Application/images/login.png
+#	new file:   Increment-3/Source Code/Web Application/images/logout.gif
+#	new file:   Increment-3/Source Code/Web Application/images/orange.png
+#	new file:   Increment-3/Source Code/Web Application/images/ph.jpg
+#	new file:   Increment-3/Source Code/Web Application/images/red.png
+#	new file:   Increment-3/Source Code/Web Application/images/register.png
+#	new file:   Increment-3/Source Code/Web Application/images/sell.png
+#	new file:   Increment-3/Source Code/Web Application/images/sitemap.png
+#	new file:   Increment-3/Source Code/Web Application/images/standard.jpg
+#	new file:   Increment-3/Source Code/Web Application/images/submit.png
+#	new file:   Increment-3/Source Code/Web Application/images/tooplate_banner.jpg
+#	new file:   Increment-3/Source Code/Web Application/images/tooplate_banner_wrapper.jpg
+#	new file:   Increment-3/Source Code/Web Application/images/tooplate_button.png
+#	new file:   Increment-3/Source Code/Web Application/images/tooplate_button_hover.png
+#	new file:   Increment-3/Source Code/Web Application/images/tooplate_content_top.jpg
+#	new file:   Increment-3/Source Code/Web Application/images/tooplate_footer.jpg
+#	new file:   Increment-3/Source Code/Web Application/images/tooplate_header.jpg
+#	new file:   Increment-3/Source Code/Web Application/images/tooplate_home.png
+#	new file:   Increment-3/Source Code/Web Application/images/tooplate_home_hover.png
+#	new file:   Increment-3/Source Code/Web Application/images/tooplate_hor_divider.jpg
+#	new file:   Increment-3/Source Code/Web Application/images/tooplate_image_01.jpg
+#	new file:   Increment-3/Source Code/Web Application/images/tooplate_image_02.jpg
+#	new file:   Increment-3/Source Code/Web Application/images/tooplate_image_03.jpg
+#	new file:   Increment-3/Source Code/Web Application/images/tooplate_image_04.jpg
+#	new file:   Increment-3/Source Code/Web Application/images/tooplate_image_05.jpg
+#	new file:   Increment-3/Source Code/Web Application/images/tooplate_list.png
+#	new file:   Increment-3/Source Code/Web Application/images/tooplate_logo.png
+#	new file:   Increment-3/Source Code/Web Application/images/tooplate_menu.png
+#	new file:   Increment-3/Source Code/Web Application/images/tooplate_vertical_divider.jpg
+#	new file:   Increment-3/Source Code/Web Application/images/trade.jpg
+#	new file:   Increment-3/Source Code/Web Application/images/why.jpg
+#	new file:   Increment-3/Source Code/Web Application/jquery-1.4.3.min.js
+#	new file:   Increment-3/Source Code/Web Application/jquery.nivo.slider.pack.js
+#	new file:   Increment-3/Source Code/Web Application/js/builder.js
+#	new file:   Increment-3/Source Code/Web Application/js/ddsmoothmenu.js
+#	new file:   Increment-3/Source Code/Web Application/js/effects.js
+#	new file:   Increment-3/Source Code/Web Application/js/jquery.min.js
+#	new file:   Increment-3/Source Code/Web Application/js/lightbox.js
+#	new file:   Increment-3/Source Code/Web Application/js/prototype.js
+#	new file:   Increment-3/Source Code/Web Application/js/scriptaculous.js
+#	new file:   Increment-3/Source Code/Web Application/js/swfobject/expressinstall.swf
+#	new file:   Increment-3/Source Code/Web Application/js/swfobject/swfobject.js
+#	new file:   Increment-3/Source Code/Web Application/location.aspx
+#	new file:   Increment-3/Source Code/Web Application/location.aspx.cs
+#	new file:   Increment-3/Source Code/Web Application/nivo-slider.css
+#	new file:   Increment-3/Source Code/Web Application/pics/3.jpg
+#	new file:   Increment-3/Source Code/Web Application/pics/5.jpg
+#	new file:   Increment-3/Source Code/Web Application/pics/6.jpg
+#	new file:   Increment-3/Source Code/Web Application/pics/7.gif
+#	new file:   Increment-3/Source Code/Web Application/piecemaker.swf
+#	new file:   Increment-3/Source Code/Web Application/piecemaker.xml
+#	new file:   Increment-3/Source Code/Web Application/placeorder.aspx
+#	new file:   Increment-3/Source Code/Web Application/placeorder.aspx.cs
+#	new file:   Increment-3/Source Code/Web Application/services.aspx
+#	new file:   Increment-3/Source Code/Web Application/services.aspx.cs
+#	new file:   Increment-3/Source Code/Web Application/standard.aspx
+#	new file:   Increment-3/Source Code/Web Application/standard.aspx.cs
+#	new file:   Increment-3/Source Code/Web Application/stock.xsl
+#	new file:   Increment-3/Source Code/Web Application/stockdatatest.aspx
+#	new file:   Increment-3/Source Code/Web Application/stockdatatest.aspx.cs
+#	new file:   Increment-3/Source Code/Web Application/tooplate_style.css
+#	new file:   Increment-3/Source Code/Web Application/tradehistory.aspx
+#	new file:   Increment-3/Source Code/Web Application/tradehistory.aspx.cs
+#	new file:   Increment-3/Source Code/Web Application/trading.aspx
+#	new file:   Increment-3/Source Code/Web Application/trading.aspx.cs
+#	new file:   Increment-3/Source Code/Web Application/why.aspx
+#	new file:   Increment-3/Source Code/Web Application/why.aspx.cs
+#
+
